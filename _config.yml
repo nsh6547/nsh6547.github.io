@@ -2,7 +2,7 @@
 #  User configuration
 # -----------------------------------------------------------------------------
 
-title:               A.W.H
+title:               LineHo Blog
 
 # The unique resource location of your page.
 # Set to `https://<username>.github.io` when hosting on GitHub Pages
@@ -16,18 +16,18 @@ timezone: Asia/Seoul # 지역 시간 설정
 baseurl:             ""
 
 # A very short description of your page
-tagline:             아무것도 하지 않으면 아무 일도 일어나지 않는다.
+tagline:             기술 블로그 및 일상생활
 
 # A short description of the page, used in the sidebar and as fallback for the meta description tag.
 # Markdown enabled, but don't use more than one paragraph (enforced by `>`)
 description:         >
-  작곡가/엔지니어/개발자
-  앤디워킹홀리데이의 진우빈입니다.
+  학생/초급개발자
+  노선호입니다.
 
 # This should be the same author as first entry in `_data/authors.yml`
 author:
-  name:              Andyworkingholiday
-  email:             kebee95@gmail.com
+  name:              Line_ho
+  email:             nsh6547@gmail.com
 
 # Fallback image and color
 image:               /assets/img/nap.jpeg
