@@ -1,10 +1,10 @@
 ---
 layout: list
-title: Artwork
-slug: artwork
+title: Life
+slug: life
 menu: true
 submenu: false
 order: 1
 description: >
-  창작물들을 담습니다.
+  Lineho일대기
 ---
