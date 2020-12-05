@@ -1,10 +1,10 @@
----
+﻿---
 layout: list
-title: Shopping
-slug: shopping
+title: Eating
+slug: eating
 menu: true
 submenu: false
 order: 4
 description: >
-  내돈내산.
+  라인호의 이런食 저런食
 ---
